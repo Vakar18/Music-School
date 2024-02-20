@@ -35,7 +35,7 @@ const musicSchoolTestimonials = [
     {
         quote:
           'The personalized attention I receive here is invaluable. The instructors understand my musical vision and provide guidance that goes beyond technical skills, nurturing my creativity as a composer.',
-        name: 'Michael Chen',
+        name: 'Michael',
         title: 'Aspiring Composer',
       },
       {
